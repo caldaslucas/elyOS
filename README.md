@@ -23,6 +23,13 @@ Este projeto está em fase de prototipagem. O código Python neste repositório 
 
 A **interface gráfica** interativa para o usuário está em desenvolvimento.
 
+## Interface Planejada (Mockup Visual)
+
+Para ilustrar a experiência do usuário final planejada, criamos um mockup visual da interface mobile. Você pode visualizar o design proposto aqui:
+
+[**Veja o protótipo da interface no Figma**](https://www.figma.com/proto/0hHZWy4FhENz0QWhhcaPNj/Chatbot?page-id=43%3A8161&node-id=47-377&p=f&viewport=255%2C244%2C0.58&t=jMnI4K8SJqcg1u4x-1&scaling=min-zoom&content-scaling=fixed)
+
+Este mockup demonstra as telas principais de interação do usuário com o ElyOS.
 
 ## Próximos Passos
 
