@@ -1,3 +1,4 @@
+![Banner do Projeto ElyOS](img/elyos_banner_horizontal.png)
 # ElyOS - Praticando a Comunicação Não Violenta
 
 ## Sobre o Projeto
@@ -30,3 +31,5 @@ O próximo passo no desenvolvimento é implementar a interface de usuário funci
 ---
 
 Muito obrigado pelo seu interesse no ElyOS!
+
+![Banner do Projeto ElyOS](img/elyos_footer.png)
