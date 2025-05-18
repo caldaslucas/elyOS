@@ -29,6 +29,8 @@ Para ilustrar a experiência do usuário final planejada, criamos um mockup visu
 
 [**Veja o protótipo da interface no Figma**](https://www.figma.com/proto/0hHZWy4FhENz0QWhhcaPNj/Chatbot?page-id=43%3A8161&node-id=47-377&p=f&viewport=255%2C244%2C0.58&t=jMnI4K8SJqcg1u4x-1&scaling=min-zoom&content-scaling=fixed)
 
+[**Link para ver o código direto no Google Colab**](https://colab.research.google.com/drive/16Kk2JcQw9uTwa_p4SsAF-2_s6z5z3CAX?usp=sharing)
+
 Este mockup demonstra as telas principais de interação do usuário com o ElyOS.
 
 ## Próximos Passos
